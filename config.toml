@@ -1,7 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://wizardly-joliot-b55ef9.netlify.com/"
 languageCode = "en-us"
 title = "My New AWESOME Hugo Site"
 theme = "ananke"
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
